@@ -8,7 +8,7 @@ I've added headers to this file
 name = input("Enter your name : ")
 print(f'Hello,{name}.')
 ```
-- [x] Task 1
-- [x] Task 2
-- [x] Lesson completed
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
   
